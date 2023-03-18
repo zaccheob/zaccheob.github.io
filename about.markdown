@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
+* Software developer craftsman, technology enthusiast, with a strong scientific background who loves learning and experiment with all what’s new.
+* Curious and always trying to understand how things work.
+* Problem solver.
+* Physicist.
+* Runner.
+* ...
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+For a more in deep description of my professional path please look at my [Linkedin profile](https://linkedin.com/in/zaccheo-bagnati)
